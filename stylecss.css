@@ -1,0 +1,38 @@
+.navbar{
+    background-color: blueviolet;
+}
+
+.musica{
+    background-color: #0dcaf0;
+    border: none;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.github{
+    background-color: #4f5050;
+    font-style: oblique;
+    color: black;
+}
+
+.linkedin{
+    background-color: #86b7fe;
+    font-style: oblique;
+    color: white;
+}
+
+.plataforma{
+    background-color: white;
+    font-style: oblique;
+    color: #0c63e4;
+}
+
+.pe_do_site{
+    background-color: brown;
+    font-style: oblique;
+    color: white;
+    font-size: xx-large;
+}
